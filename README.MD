@@ -1,7 +1,7 @@
 #  Aviation Accident Data Analysis
 
 ##  Project Overview
-This project analyzes aviation accident data (1919–2023) to identify trends, risk factors, and insights that can guide safer aviation practices.  
+Safety in the aviation sector is a major issue in the world. Knowledge about the causes, frequency, and effects of aviation accidents can be used to determine the patterns and enhance safety precautions, as well as policy-making. The data in this project ( aviation-accident-data-2023-05-16.csv ) has more than 23,950 records of aviation accidents and incidents in various countries, operators and aircraft type.
 We used Python (Pandas, Matplotlib, Seaborn) to clean, analyze, and visualize the dataset.
 
 
