@@ -67,7 +67,13 @@ We used Python (Pandas, Matplotlib, Seaborn) to clean, analyze, and visualize th
 
 3. *Prioritize Smaller Aircraft Safety*  
    Most incidents involve smaller planes.  
-   Extra investments in *pilot training* and *equipment upgrades* will mitigate risks.
+   Extra investments in *pilot training* and *equipment upgrades* will mitigate risks
+
+## conclusion
+This project aimed to investigate aviation accidents and hoped to gain an insight into trends, causes as well as their effects on safety. The results indicate that even though aviation accidents have decreased over the years owing to the current technological advancements, training, and regulations, accidents (A) are the biggest causes of fatalities. Hijackings and criminal activities are very few but they do show what doomsday scenarios can bring about in isolated incidents.
+Incidents (I) are usually associated with minor or no loss of life, but are very important early alerts of weaknesses in systems. Most of the deaths are also related to hull-loss accidents, and therefore, underlining the significance of maintenance, pilot training, and operational safety measures. The fact that the number of accidents and fatalities are distributed among countries, operators, and types of aircraft also speaks to the importance of regulatory regulation, geographic issues, and variation in the safety practices of airlines.  
+
+   
 
 
 The link to the[tableau dashboard](https://public.tableau.com/views/AviationAccidentDataAnalysis_17593378456050/AVIATIONACCIDENTDATA?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
