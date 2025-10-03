@@ -69,20 +69,5 @@ We used Python (Pandas, Matplotlib, Seaborn) to clean, analyze, and visualize th
    Most incidents involve smaller planes.  
    Extra investments in *pilot training* and *equipment upgrades* will mitigate risks.
 
- How to Run
-Clone this repo and install requirements:
-
-```bash
-git clone git@github.com:Felo-tec/AVIATION-ACCIDENT-DATA-PROJECT.git
-cd phase1-project
-
- #activate your conda environment
-conda activate learn-env
-
- #install dependencies
-pip install -r requirements.txt
-
- #run notebook
-jupyter notebook
 
 The link to the[tableau dashboard](https://public.tableau.com/views/AviationAccidentDataAnalysis_17593378456050/AVIATIONACCIDENTDATA?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
