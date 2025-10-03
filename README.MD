@@ -14,7 +14,7 @@ We used Python (Pandas, Matplotlib, Seaborn) to clean, analyze, and visualize th
 
 ## Dataset
 - *File*: aviation-accident-data-2023-05-16.csv  
-- *Rows*: ~23,800 records  
+- *Rows*: ~23,967 records  
 - *Columns*:  
   - date – date of the accident  
   - type – aircraft type  
@@ -34,8 +34,10 @@ We used Python (Pandas, Matplotlib, Seaborn) to clean, analyze, and visualize th
 
 2. *Exploratory Data Analysis (EDA)*
    - shows fatailites  (histogram).
-   - Top 5 countries by accident counts (bar chart).
+   - Top 10 countries by accident counts (bar chart).
    - show fatailities over the year (line chart).
+   - show fatalities per category(bar chart)
+   - show fatalities per operator(bar chart)
 3. *Visualization*
    - Simple, clear charts to highlight safety insights.
 
@@ -48,9 +50,11 @@ We used Python (Pandas, Matplotlib, Seaborn) to clean, analyze, and visualize th
 ### 2. Countries with the Most Accidents
 - Highest accident counts observed in *USA, Russia, Indonesia, Brazil, and India*.
 - Indicates operational and regulatory differences.
+- Indicates that there are more flights in *USA, Russia, Indonesia, Brazil, and India*
 
 ### 3. Trends Over Time
 - Accidents have *decreased significantly since the 1990s*, reflecting better safety regulations and technology improvements.
+- Accidents are decreased over time since pilots are trained regularly
 
 ## Business Recommendations
 1. *Highlight Modern Safety Improvements*  
@@ -64,6 +68,7 @@ We used Python (Pandas, Matplotlib, Seaborn) to clean, analyze, and visualize th
 3. *Prioritize Smaller Aircraft Safety*  
    Most incidents involve smaller planes.  
    Extra investments in *pilot training* and *equipment upgrades* will mitigate risks.
+
  How to Run
 Clone this repo and install requirements:
 
@@ -79,3 +84,5 @@ pip install -r requirements.txt
 
  #run notebook
 jupyter notebook
+
+The link to the[tableau dashboard](https://public.tableau.com/views/AviationAccidentDataAnalysis_17593378456050/AVIATIONACCIDENTDATA?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
